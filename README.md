@@ -7,4 +7,4 @@ Here are scripts and data files used in the above mentioned paper that tests the
 
 Scripts are separated into folders based on analysis type. 
 
-Final bed files of regions in newborn screening genes that are highly homologous with other genomic regions and a problem for NGS short reads at varying read lengths are in the Problem_Region_Bed_Files folder under Final_Bed_Files. There are bed files for both genic and exonic levels with a file that designates each region in the newborn screening gene and another with each alternate hit elsewhere in the genome annotated. 
+Final bed files of regions in newborn screening genes that are highly homologous with other genomic regions and a problem for NGS short reads at varying read lengths are in the Problem_Region_Bed_Files folder under Final_Bed_Files. The bed files designate the newborn screening gene and each region within the gene where alternate mappings due to homologus regions elsewhere in the genome occur. 
